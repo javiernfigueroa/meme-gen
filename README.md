@@ -33,7 +33,7 @@ REACT_APP_BACKEND_URL=http://localhost:3000/api/
 ```
 
 ## Recursos adicionales
-
+```bash
 Este proyecto utiliza Google Fonts para la fuente de la interfaz de usuario y Font Awesome para los iconos. Los enlaces para la carga de estos recursos se encuentran en el archivo index.html en la carpeta public.
 
 <link
@@ -46,4 +46,5 @@ Este proyecto utiliza Google Fonts para la fuente de la interfaz de usuario y Fo
 />
 <link href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" rel="stylesheet">
 
-Este proyecto utiliza 
+Este proyecto utiliza
+```
